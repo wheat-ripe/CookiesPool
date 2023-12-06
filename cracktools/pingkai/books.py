@@ -77,8 +77,8 @@ def encode_decode_url(url):
 
 
 if __name__ == '__main__':
-    url = 'https://pingkai.myqnapcloud.com:5245/api/fs/list'
-    url_2 = 'https://pingkai.myqnapcloud.com:5245/d/aliyunCloud/'
+    url = ''
+    url_2 = ''
     encode_decode_url(url)
     encode_decode_url(url_2)
 
