@@ -2,3 +2,10 @@ requests>=2.13.0
 selenium>=3.4.0
 redis>=2.10.5
 Flask>=0.12.1
+
+#add by mc
+pillow>=9.1.1
+tesserocr>=2.6.2
+retrying>=1.3.3,<2.0.0
+numpy>=1.25.0
+lxml>=4.6.5,<5.0.0
